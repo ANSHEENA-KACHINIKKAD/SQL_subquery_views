@@ -49,3 +49,10 @@ Customer
 
 ## Results
 
+https://github.com/ANSHEENA-KACHINIKKAD/SQL_subquery_views/blob/main/Subquery_view_sql_8.sql
+
+## Key Points:
+ A subquery is a SELECT statement nested within another SQL statement. It's like a query within a query. It's used to filter data based on conditions involving the results of another query.
+
+ A view in SQL is a virtual table that doesn't store data directly. It's a saved SQL query that acts as a customized view of data from one or more tables. Views can simplify complex queries, enhance data security, and provide tailored data views for different users.
+
